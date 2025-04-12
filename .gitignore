@@ -1,1 +1,5 @@
-/target
+.*
+!.gitignore
+
+target/
+wem-to-pak/
