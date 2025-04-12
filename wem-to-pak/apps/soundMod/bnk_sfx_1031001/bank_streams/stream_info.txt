@@ -1,0 +1,1591 @@
+
+Section#: 0
+
+Sound File Id: 0019e0c4
+File Offset:   00000000
+File length:   0000372b
+Section#: 1
+
+Sound File Id: 00581cb8
+File Offset:   00003730
+File length:   00004677
+Section#: 2
+
+Sound File Id: 0103773b
+File Offset:   00007db0
+File length:   000027c5
+Section#: 3
+
+Sound File Id: 0127816e
+File Offset:   0000a580
+File length:   00001c34
+Section#: 4
+
+Sound File Id: 0176ff73
+File Offset:   0000c1c0
+File length:   00003352
+Section#: 5
+
+Sound File Id: 0197ed8c
+File Offset:   0000f520
+File length:   00002dc1
+Section#: 6
+
+Sound File Id: 01afc41a
+File Offset:   000122f0
+File length:   00000b8e
+Section#: 7
+
+Sound File Id: 01b01ffd
+File Offset:   00012e80
+File length:   00002684
+Section#: 8
+
+Sound File Id: 01d22ca9
+File Offset:   00015510
+File length:   00002819
+Section#: 9
+
+Sound File Id: 01e7b52d
+File Offset:   00017d30
+File length:   000018f4
+Section#: a
+
+Sound File Id: 02314dfd
+File Offset:   00019630
+File length:   0000198b
+Section#: b
+
+Sound File Id: 023b2a2d
+File Offset:   0001afc0
+File length:   00002ac6
+Section#: c
+
+Sound File Id: 0288b18e
+File Offset:   0001da90
+File length:   0000d5e9
+Section#: d
+
+Sound File Id: 02a0fe0d
+File Offset:   0002b080
+File length:   0000211d
+Section#: e
+
+Sound File Id: 033c0d0d
+File Offset:   0002d1a0
+File length:   00001d1d
+Section#: f
+
+Sound File Id: 036371e7
+File Offset:   0002eec0
+File length:   000034ca
+Section#: 10
+
+Sound File Id: 037334d9
+File Offset:   00032390
+File length:   00003c36
+Section#: 11
+
+Sound File Id: 03aa164d
+File Offset:   00035fd0
+File length:   00001c67
+Section#: 12
+
+Sound File Id: 041d6c24
+File Offset:   00037c40
+File length:   0000ada6
+Section#: 13
+
+Sound File Id: 0479a172
+File Offset:   000429f0
+File length:   000012e7
+Section#: 14
+
+Sound File Id: 04903308
+File Offset:   00043ce0
+File length:   000036dd
+Section#: 15
+
+Sound File Id: 05510cd4
+File Offset:   000473c0
+File length:   00001365
+Section#: 16
+
+Sound File Id: 058ff172
+File Offset:   00048730
+File length:   0000339f
+Section#: 17
+
+Sound File Id: 05a46cf0
+File Offset:   0004bad0
+File length:   00002254
+Section#: 18
+
+Sound File Id: 05ae9bde
+File Offset:   0004dd30
+File length:   0000297b
+Section#: 19
+
+Sound File Id: 05beca1d
+File Offset:   000506b0
+File length:   0000222b
+Section#: 1a
+
+Sound File Id: 061c9977
+File Offset:   000528e0
+File length:   00001a69
+Section#: 1b
+
+Sound File Id: 061d8d79
+File Offset:   00054350
+File length:   000019f4
+Section#: 1c
+
+Sound File Id: 065b58a4
+File Offset:   00055d50
+File length:   00002a96
+Section#: 1d
+
+Sound File Id: 0676116b
+File Offset:   000587f0
+File length:   00004f29
+Section#: 1e
+
+Sound File Id: 0699a20e
+File Offset:   0005d720
+File length:   00002ff7
+Section#: 1f
+
+Sound File Id: 07511ced
+File Offset:   00060720
+File length:   00002998
+Section#: 20
+
+Sound File Id: 075c9a18
+File Offset:   000630c0
+File length:   00003c7f
+Section#: 21
+
+Sound File Id: 0761a75c
+File Offset:   00066d40
+File length:   000023aa
+Section#: 22
+
+Sound File Id: 07aceeea
+File Offset:   000690f0
+File length:   00003b2b
+Section#: 23
+
+Sound File Id: 087d325b
+File Offset:   0006cc20
+File length:   00006de7
+Section#: 24
+
+Sound File Id: 088b346a
+File Offset:   00073a10
+File length:   000017d8
+Section#: 25
+
+Sound File Id: 08c94bf5
+File Offset:   000751f0
+File length:   000017ed
+Section#: 26
+
+Sound File Id: 08ca86c9
+File Offset:   000769e0
+File length:   00003270
+Section#: 27
+
+Sound File Id: 0934aa63
+File Offset:   00079c50
+File length:   0000583d
+Section#: 28
+
+Sound File Id: 09cb1543
+File Offset:   0007f490
+File length:   00006072
+Section#: 29
+
+Sound File Id: 0a05b07d
+File Offset:   00085510
+File length:   00002b8a
+Section#: 2a
+
+Sound File Id: 0a771ab1
+File Offset:   000880a0
+File length:   00001ec0
+Section#: 2b
+
+Sound File Id: 0ab58db0
+File Offset:   00089f60
+File length:   00001905
+Section#: 2c
+
+Sound File Id: 0ab7612b
+File Offset:   0008b870
+File length:   00001eb1
+Section#: 2d
+
+Sound File Id: 0beeca0d
+File Offset:   0008d730
+File length:   000035cc
+Section#: 2e
+
+Sound File Id: 0c3ebcd9
+File Offset:   00090d00
+File length:   00002c4a
+Section#: 2f
+
+Sound File Id: 0c5b8d29
+File Offset:   00093950
+File length:   00001a9a
+Section#: 30
+
+Sound File Id: 0c89b2c1
+File Offset:   000953f0
+File length:   000080f8
+Section#: 31
+
+Sound File Id: 0c901bc8
+File Offset:   0009d4f0
+File length:   00002154
+Section#: 32
+
+Sound File Id: 0cb4337d
+File Offset:   0009f650
+File length:   0000644b
+Section#: 33
+
+Sound File Id: 0ce9117c
+File Offset:   000a5aa0
+File length:   00007560
+Section#: 34
+
+Sound File Id: 0d511c58
+File Offset:   000ad000
+File length:   00000dfc
+Section#: 35
+
+Sound File Id: 0d86095d
+File Offset:   000ade00
+File length:   00002e57
+Section#: 36
+
+Sound File Id: 0dbf2cb9
+File Offset:   000b0c60
+File length:   000031c3
+Section#: 37
+
+Sound File Id: 0dd7587c
+File Offset:   000b3e30
+File length:   00002295
+Section#: 38
+
+Sound File Id: 0ddefc75
+File Offset:   000b60d0
+File length:   00001a7f
+Section#: 39
+
+Sound File Id: 0dfbb7ec
+File Offset:   000b7b50
+File length:   00003f91
+Section#: 3a
+
+Sound File Id: 0e047d80
+File Offset:   000bbaf0
+File length:   00004214
+Section#: 3b
+
+Sound File Id: 0e080ede
+File Offset:   000bfd10
+File length:   00005b2e
+Section#: 3c
+
+Sound File Id: 0e2bb7da
+File Offset:   000c5840
+File length:   00003826
+Section#: 3d
+
+Sound File Id: 0eef9b47
+File Offset:   000c9070
+File length:   00006fbb
+Section#: 3e
+
+Sound File Id: 0f0fc428
+File Offset:   000d0030
+File length:   00002636
+Section#: 3f
+
+Sound File Id: 0f26c55f
+File Offset:   000d2670
+File length:   000035ac
+Section#: 40
+
+Sound File Id: 0f27339d
+File Offset:   000d5c20
+File length:   0000270e
+Section#: 41
+
+Sound File Id: 0f460a58
+File Offset:   000d8330
+File length:   00002f42
+Section#: 42
+
+Sound File Id: 0f729196
+File Offset:   000db280
+File length:   00000e43
+Section#: 43
+
+Sound File Id: 0f84b0fa
+File Offset:   000dc0d0
+File length:   00002282
+Section#: 44
+
+Sound File Id: 0fb0ca79
+File Offset:   000de360
+File length:   00006ca2
+Section#: 45
+
+Sound File Id: 10d97a49
+File Offset:   000e5010
+File length:   00002f92
+Section#: 46
+
+Sound File Id: 10daf950
+File Offset:   000e7fb0
+File length:   000027ed
+Section#: 47
+
+Sound File Id: 10e6af77
+File Offset:   000ea7a0
+File length:   00000968
+Section#: 48
+
+Sound File Id: 110d92d6
+File Offset:   000eb110
+File length:   00001f71
+Section#: 49
+
+Sound File Id: 115adea8
+File Offset:   000ed090
+File length:   00002d99
+Section#: 4a
+
+Sound File Id: 119a8dcb
+File Offset:   000efe30
+File length:   00003eb8
+Section#: 4b
+
+Sound File Id: 11ad25ce
+File Offset:   000f3cf0
+File length:   0000227c
+Section#: 4c
+
+Sound File Id: 12122f02
+File Offset:   000f5f70
+File length:   000020f5
+Section#: 4d
+
+Sound File Id: 12244c0c
+File Offset:   000f8070
+File length:   00000bd6
+Section#: 4e
+
+Sound File Id: 12362631
+File Offset:   000f8c50
+File length:   00006a2a
+Section#: 4f
+
+Sound File Id: 12764e6b
+File Offset:   000ff680
+File length:   0000a1e2
+Section#: 50
+
+Sound File Id: 12a2f82e
+File Offset:   00109870
+File length:   00002253
+Section#: 51
+
+Sound File Id: 12c9393f
+File Offset:   0010bad0
+File length:   00000c78
+Section#: 52
+
+Sound File Id: 13149bf4
+File Offset:   0010c750
+File length:   000027cc
+Section#: 53
+
+Sound File Id: 132653a5
+File Offset:   0010ef20
+File length:   00002df3
+Section#: 54
+
+Sound File Id: 1346f760
+File Offset:   00111d20
+File length:   00002781
+Section#: 55
+
+Sound File Id: 13ed138b
+File Offset:   001144b0
+File length:   0002ac86
+Section#: 56
+
+Sound File Id: 13ed95b9
+File Offset:   0013f140
+File length:   00001564
+Section#: 57
+
+Sound File Id: 13f2ba0d
+File Offset:   001406b0
+File length:   000006dd
+Section#: 58
+
+Sound File Id: 1446badd
+File Offset:   00140d90
+File length:   00002aa5
+Section#: 59
+
+Sound File Id: 150f790d
+File Offset:   00143840
+File length:   00002cf7
+Section#: 5a
+
+Sound File Id: 154ab8c8
+File Offset:   00146540
+File length:   00001349
+Section#: 5b
+
+Sound File Id: 1568497a
+File Offset:   00147890
+File length:   000038f3
+Section#: 5c
+
+Sound File Id: 15759ff2
+File Offset:   0014b190
+File length:   00002a63
+Section#: 5d
+
+Sound File Id: 15c56812
+File Offset:   0014dc00
+File length:   000062b3
+Section#: 5e
+
+Sound File Id: 15efcb79
+File Offset:   00153ec0
+File length:   00006de7
+Section#: 5f
+
+Sound File Id: 161b10f6
+File Offset:   0015acb0
+File length:   00004676
+Section#: 60
+
+Sound File Id: 16297084
+File Offset:   0015f330
+File length:   0000324e
+Section#: 61
+
+Sound File Id: 163d1ee2
+File Offset:   00162580
+File length:   0001a111
+Section#: 62
+
+Sound File Id: 16847106
+File Offset:   0017c6a0
+File length:   00002078
+Section#: 63
+
+Sound File Id: 168d7490
+File Offset:   0017e720
+File length:   00002408
+Section#: 64
+
+Sound File Id: 169747e9
+File Offset:   00180b30
+File length:   00002ebc
+Section#: 65
+
+Sound File Id: 169f6975
+File Offset:   001839f0
+File length:   00001d95
+Section#: 66
+
+Sound File Id: 16a8b507
+File Offset:   00185790
+File length:   0000adc0
+Section#: 67
+
+Sound File Id: 16a91699
+File Offset:   00190550
+File length:   000068bf
+Section#: 68
+
+Sound File Id: 16d68012
+File Offset:   00196e10
+File length:   00001dd5
+Section#: 69
+
+Sound File Id: 1738fb0e
+File Offset:   00198bf0
+File length:   00001ef0
+Section#: 6a
+
+Sound File Id: 17511386
+File Offset:   0019aae0
+File length:   00001b45
+Section#: 6b
+
+Sound File Id: 176c0031
+File Offset:   0019c630
+File length:   00002b02
+Section#: 6c
+
+Sound File Id: 17714445
+File Offset:   0019f140
+File length:   00001ea4
+Section#: 6d
+
+Sound File Id: 177529ec
+File Offset:   001a0ff0
+File length:   00001b81
+Section#: 6e
+
+Sound File Id: 1786f402
+File Offset:   001a2b80
+File length:   00002432
+Section#: 6f
+
+Sound File Id: 18038515
+File Offset:   001a4fc0
+File length:   00002432
+Section#: 70
+
+Sound File Id: 1813aac8
+File Offset:   001a7400
+File length:   000038ad
+Section#: 71
+
+Sound File Id: 183c329a
+File Offset:   001aacb0
+File length:   00000f0f
+Section#: 72
+
+Sound File Id: 189e1584
+File Offset:   001abbc0
+File length:   000026cb
+Section#: 73
+
+Sound File Id: 18b7ac70
+File Offset:   001ae290
+File length:   0000192c
+Section#: 74
+
+Sound File Id: 18d9c463
+File Offset:   001afbc0
+File length:   000057ec
+Section#: 75
+
+Sound File Id: 193f1faf
+File Offset:   001b53b0
+File length:   00003f15
+Section#: 76
+
+Sound File Id: 19edf51a
+File Offset:   001b92d0
+File length:   00002277
+Section#: 77
+
+Sound File Id: 1a551af9
+File Offset:   001bb550
+File length:   00001b77
+Section#: 78
+
+Sound File Id: 1a8d7357
+File Offset:   001bd0d0
+File length:   00002daa
+Section#: 79
+
+Sound File Id: 1ab4398d
+File Offset:   001bfe80
+File length:   000021e7
+Section#: 7a
+
+Sound File Id: 1ab6394a
+File Offset:   001c2070
+File length:   00002ab2
+Section#: 7b
+
+Sound File Id: 1b826086
+File Offset:   001c4b30
+File length:   00002160
+Section#: 7c
+
+Sound File Id: 1ba4a5e3
+File Offset:   001c6c90
+File length:   00007850
+Section#: 7d
+
+Sound File Id: 1bbd2ec1
+File Offset:   001ce4e0
+File length:   0000c327
+Section#: 7e
+
+Sound File Id: 1be0fa9e
+File Offset:   001da810
+File length:   000025ab
+Section#: 7f
+
+Sound File Id: 1bed328b
+File Offset:   001dcdc0
+File length:   00002187
+Section#: 80
+
+Sound File Id: 1bfc0f93
+File Offset:   001def50
+File length:   000027c8
+Section#: 81
+
+Sound File Id: 1c066d9b
+File Offset:   001e1720
+File length:   00006691
+Section#: 82
+
+Sound File Id: 1c5034fa
+File Offset:   001e7dc0
+File length:   00003c78
+Section#: 83
+
+Sound File Id: 1ca11cec
+File Offset:   001eba40
+File length:   00001adf
+Section#: 84
+
+Sound File Id: 1d647056
+File Offset:   001ed520
+File length:   00003c08
+Section#: 85
+
+Sound File Id: 1d77ece6
+File Offset:   001f1130
+File length:   00002027
+Section#: 86
+
+Sound File Id: 1dcdd449
+File Offset:   001f3160
+File length:   0000268b
+Section#: 87
+
+Sound File Id: 1dd9f263
+File Offset:   001f57f0
+File length:   00003c93
+Section#: 88
+
+Sound File Id: 1dfc7681
+File Offset:   001f9490
+File length:   00004bb1
+Section#: 89
+
+Sound File Id: 1e302cc9
+File Offset:   001fe050
+File length:   00000e97
+Section#: 8a
+
+Sound File Id: 1e637a85
+File Offset:   001feef0
+File length:   000048f7
+Section#: 8b
+
+Sound File Id: 1e720bae
+File Offset:   002037f0
+File length:   00000ddc
+Section#: 8c
+
+Sound File Id: 1e77cb32
+File Offset:   002045d0
+File length:   00006308
+Section#: 8d
+
+Sound File Id: 1e9059c0
+File Offset:   0020a8e0
+File length:   0000792a
+Section#: 8e
+
+Sound File Id: 1eb5e0c4
+File Offset:   00212210
+File length:   00003bb6
+Section#: 8f
+
+Sound File Id: 1efc3e14
+File Offset:   00215dd0
+File length:   00002669
+Section#: 90
+
+Sound File Id: 1f478351
+File Offset:   00218440
+File length:   0000306a
+Section#: 91
+
+Sound File Id: 1f5d230f
+File Offset:   0021b4b0
+File length:   000025a4
+Section#: 92
+
+Sound File Id: 1f8139cf
+File Offset:   0021da60
+File length:   000047ca
+Section#: 93
+
+Sound File Id: 1fb08877
+File Offset:   00222230
+File length:   0000528c
+Section#: 94
+
+Sound File Id: 2024a278
+File Offset:   002274c0
+File length:   00000fbf
+Section#: 95
+
+Sound File Id: 20543fbc
+File Offset:   00228480
+File length:   00000c78
+Section#: 96
+
+Sound File Id: 20cc387c
+File Offset:   00229100
+File length:   00003e29
+Section#: 97
+
+Sound File Id: 20ec6d90
+File Offset:   0022cf30
+File length:   00007426
+Section#: 98
+
+Sound File Id: 2105cc21
+File Offset:   00234360
+File length:   000096a8
+Section#: 99
+
+Sound File Id: 213631ce
+File Offset:   0023da10
+File length:   00007f7c
+Section#: 9a
+
+Sound File Id: 214143eb
+File Offset:   00245990
+File length:   000019da
+Section#: 9b
+
+Sound File Id: 215a4d25
+File Offset:   00247370
+File length:   00002e38
+Section#: 9c
+
+Sound File Id: 216cfc3d
+File Offset:   0024a1b0
+File length:   00002ce0
+Section#: 9d
+
+Sound File Id: 217d05b9
+File Offset:   0024ce90
+File length:   00001ffb
+Section#: 9e
+
+Sound File Id: 217d3362
+File Offset:   0024ee90
+File length:   00004a6d
+Section#: 9f
+
+Sound File Id: 2188f006
+File Offset:   00253900
+File length:   00002425
+Section#: a0
+
+Sound File Id: 21ec7e88
+File Offset:   00255d30
+File length:   00002f20
+Section#: a1
+
+Sound File Id: 2205b094
+File Offset:   00258c50
+File length:   00002c86
+Section#: a2
+
+Sound File Id: 2217fcba
+File Offset:   0025b8e0
+File length:   00004df0
+Section#: a3
+
+Sound File Id: 223cbcf2
+File Offset:   002606d0
+File length:   00002b79
+Section#: a4
+
+Sound File Id: 2253cb31
+File Offset:   00263250
+File length:   00001105
+Section#: a5
+
+Sound File Id: 2285fef3
+File Offset:   00264360
+File length:   00012f5d
+Section#: a6
+
+Sound File Id: 228d4191
+File Offset:   002772c0
+File length:   00000dd4
+Section#: a7
+
+Sound File Id: 22c1f6ae
+File Offset:   002780a0
+File length:   000036cd
+Section#: a8
+
+Sound File Id: 22d82b37
+File Offset:   0027b770
+File length:   00002406
+Section#: a9
+
+Sound File Id: 22e0a2a5
+File Offset:   0027db80
+File length:   00003a40
+Section#: aa
+
+Sound File Id: 230dedbd
+File Offset:   002815c0
+File length:   000065cc
+Section#: ab
+
+Sound File Id: 2324735b
+File Offset:   00287b90
+File length:   00018189
+Section#: ac
+
+Sound File Id: 233fe6aa
+File Offset:   0029fd20
+File length:   000074df
+Section#: ad
+
+Sound File Id: 23716088
+File Offset:   002a7200
+File length:   00003505
+Section#: ae
+
+Sound File Id: 239aba69
+File Offset:   002aa710
+File length:   000035ef
+Section#: af
+
+Sound File Id: 23c20f27
+File Offset:   002add00
+File length:   00003951
+Section#: b0
+
+Sound File Id: 24566249
+File Offset:   002b1660
+File length:   00002bd3
+Section#: b1
+
+Sound File Id: 24b1ec62
+File Offset:   002b4240
+File length:   00002da2
+Section#: b2
+
+Sound File Id: 24b26e6d
+File Offset:   002b6ff0
+File length:   00001ed7
+Section#: b3
+
+Sound File Id: 24bf75c5
+File Offset:   002b8ed0
+File length:   00002334
+Section#: b4
+
+Sound File Id: 24dc734c
+File Offset:   002bb210
+File length:   000021c4
+Section#: b5
+
+Sound File Id: 24e67dcc
+File Offset:   002bd3e0
+File length:   00001044
+Section#: b6
+
+Sound File Id: 24ff3394
+File Offset:   002be430
+File length:   00002219
+Section#: b7
+
+Sound File Id: 25600f18
+File Offset:   002c0650
+File length:   00000f20
+Section#: b8
+
+Sound File Id: 2563bb16
+File Offset:   002c1570
+File length:   000359c3
+Section#: b9
+
+Sound File Id: 25aba76e
+File Offset:   002f6f40
+File length:   0000246f
+Section#: ba
+
+Sound File Id: 25bf1e3a
+File Offset:   002f93b0
+File length:   000034c5
+Section#: bb
+
+Sound File Id: 25ca03df
+File Offset:   002fc880
+File length:   000014d9
+Section#: bc
+
+Sound File Id: 25ce0d18
+File Offset:   002fdd60
+File length:   00002890
+Section#: bd
+
+Sound File Id: 25f363a2
+File Offset:   003005f0
+File length:   000033c7
+Section#: be
+
+Sound File Id: 25f985e2
+File Offset:   003039c0
+File length:   00005cb0
+Section#: bf
+
+Sound File Id: 260d3c56
+File Offset:   00309670
+File length:   00001cbe
+Section#: c0
+
+Sound File Id: 262f02be
+File Offset:   0030b330
+File length:   00001a42
+Section#: c1
+
+Sound File Id: 263931a5
+File Offset:   0030cd80
+File length:   00003093
+Section#: c2
+
+Sound File Id: 2643a6b6
+File Offset:   0030fe20
+File length:   000085c0
+Section#: c3
+
+Sound File Id: 26ad8b74
+File Offset:   003183e0
+File length:   000040df
+Section#: c4
+
+Sound File Id: 26f39e13
+File Offset:   0031c4c0
+File length:   00006353
+Section#: c5
+
+Sound File Id: 26fe0725
+File Offset:   00322820
+File length:   000056f1
+Section#: c6
+
+Sound File Id: 27354465
+File Offset:   00327f20
+File length:   00002711
+Section#: c7
+
+Sound File Id: 273e24da
+File Offset:   0032a640
+File length:   00007ea0
+Section#: c8
+
+Sound File Id: 274c60db
+File Offset:   003324e0
+File length:   0000dcf0
+Section#: c9
+
+Sound File Id: 27591bc7
+File Offset:   003401d0
+File length:   0000413a
+Section#: ca
+
+Sound File Id: 275d02e9
+File Offset:   00344310
+File length:   000032ed
+Section#: cb
+
+Sound File Id: 27c1cb3e
+File Offset:   00347600
+File length:   00002f36
+Section#: cc
+
+Sound File Id: 27e5b196
+File Offset:   0034a540
+File length:   00002e05
+Section#: cd
+
+Sound File Id: 27fe729c
+File Offset:   0034d350
+File length:   0000230e
+Section#: ce
+
+Sound File Id: 286edb1f
+File Offset:   0034f660
+File length:   00003d6b
+Section#: cf
+
+Sound File Id: 289716bf
+File Offset:   003533d0
+File length:   00001986
+Section#: d0
+
+Sound File Id: 28989dc8
+File Offset:   00354d60
+File length:   00008682
+Section#: d1
+
+Sound File Id: 28d03d29
+File Offset:   0035d3f0
+File length:   00002807
+Section#: d2
+
+Sound File Id: 29526459
+File Offset:   0035fc00
+File length:   00005876
+Section#: d3
+
+Sound File Id: 29c9e8d9
+File Offset:   00365480
+File length:   00001c4d
+Section#: d4
+
+Sound File Id: 2a26ee1f
+File Offset:   003670d0
+File length:   000083a7
+Section#: d5
+
+Sound File Id: 2a42913e
+File Offset:   0036f480
+File length:   0000a950
+Section#: d6
+
+Sound File Id: 2ae0ff7d
+File Offset:   00379dd0
+File length:   00000cf5
+Section#: d7
+
+Sound File Id: 2b11ed99
+File Offset:   0037aad0
+File length:   00007ab5
+Section#: d8
+
+Sound File Id: 2b28dcc3
+File Offset:   00382590
+File length:   00002272
+Section#: d9
+
+Sound File Id: 2bbf8111
+File Offset:   00384810
+File length:   000007d0
+Section#: da
+
+Sound File Id: 2ce14448
+File Offset:   00384fe0
+File length:   000020da
+Section#: db
+
+Sound File Id: 2d2122ca
+File Offset:   003870c0
+File length:   000074df
+Section#: dc
+
+Sound File Id: 2d73faa6
+File Offset:   0038e5a0
+File length:   00002cab
+Section#: dd
+
+Sound File Id: 2d7f46dd
+File Offset:   00391250
+File length:   00004300
+Section#: de
+
+Sound File Id: 2dbffdcd
+File Offset:   00395550
+File length:   00001112
+Section#: df
+
+Sound File Id: 2de27581
+File Offset:   00396670
+File length:   00003abf
+Section#: e0
+
+Sound File Id: 2e03011d
+File Offset:   0039a130
+File length:   000031a8
+Section#: e1
+
+Sound File Id: 2e063131
+File Offset:   0039d2e0
+File length:   0000d988
+Section#: e2
+
+Sound File Id: 2e0d4113
+File Offset:   003aac70
+File length:   00002946
+Section#: e3
+
+Sound File Id: 2e42fd3b
+File Offset:   003ad5c0
+File length:   00002f71
+Section#: e4
+
+Sound File Id: 2e4b2c8f
+File Offset:   003b0540
+File length:   00004666
+Section#: e5
+
+Sound File Id: 2e4e42e6
+File Offset:   003b4bb0
+File length:   0000359f
+Section#: e6
+
+Sound File Id: 2e7f81b6
+File Offset:   003b8150
+File length:   0000566e
+Section#: e7
+
+Sound File Id: 2e991924
+File Offset:   003bd7c0
+File length:   00005703
+Section#: e8
+
+Sound File Id: 2f685c34
+File Offset:   003c2ed0
+File length:   00002461
+Section#: e9
+
+Sound File Id: 2f7c27ff
+File Offset:   003c5340
+File length:   00004848
+Section#: ea
+
+Sound File Id: 2fb60f62
+File Offset:   003c9b90
+File length:   00003198
+Section#: eb
+
+Sound File Id: 2fda4191
+File Offset:   003ccd30
+File length:   0000be1d
+Section#: ec
+
+Sound File Id: 306040f7
+File Offset:   003d8b50
+File length:   00003083
+Section#: ed
+
+Sound File Id: 30b8991e
+File Offset:   003dbbe0
+File length:   00008292
+Section#: ee
+
+Sound File Id: 30e8f6ec
+File Offset:   003e3e80
+File length:   0000dbe1
+Section#: ef
+
+Sound File Id: 310eb31c
+File Offset:   003f1a70
+File length:   00002fa1
+Section#: f0
+
+Sound File Id: 311a47b0
+File Offset:   003f4a20
+File length:   000025bc
+Section#: f1
+
+Sound File Id: 314f3611
+File Offset:   003f6fe0
+File length:   000050db
+Section#: f2
+
+Sound File Id: 31590bcc
+File Offset:   003fc0c0
+File length:   000026de
+Section#: f3
+
+Sound File Id: 31b1d34a
+File Offset:   003fe7a0
+File length:   00003f14
+Section#: f4
+
+Sound File Id: 31cc870b
+File Offset:   004026c0
+File length:   0000208b
+Section#: f5
+
+Sound File Id: 31f85ceb
+File Offset:   00404750
+File length:   000026f6
+Section#: f6
+
+Sound File Id: 3234f71e
+File Offset:   00406e50
+File length:   00001d61
+Section#: f7
+
+Sound File Id: 3250347c
+File Offset:   00408bc0
+File length:   00003d6b
+Section#: f8
+
+Sound File Id: 32751e48
+File Offset:   0040c930
+File length:   0000087d
+Section#: f9
+
+Sound File Id: 32f04248
+File Offset:   0040d1b0
+File length:   00001b59
+Section#: fa
+
+Sound File Id: 33088985
+File Offset:   0040ed10
+File length:   00007b63
+Section#: fb
+
+Sound File Id: 332763fe
+File Offset:   00416880
+File length:   000024e8
+Section#: fc
+
+Sound File Id: 33334770
+File Offset:   00418d70
+File length:   000020bd
+Section#: fd
+
+Sound File Id: 33498523
+File Offset:   0041ae30
+File length:   00001102
+Section#: fe
+
+Sound File Id: 33a88de2
+File Offset:   0041bf40
+File length:   000035bc
+Section#: ff
+
+Sound File Id: 33b810a8
+File Offset:   0041f500
+File length:   0000698c
+Section#: 100
+
+Sound File Id: 33db8623
+File Offset:   00425e90
+File length:   000032a1
+Section#: 101
+
+Sound File Id: 3415f249
+File Offset:   00429140
+File length:   00000de3
+Section#: 102
+
+Sound File Id: 344120f4
+File Offset:   00429f30
+File length:   000033df
+Section#: 103
+
+Sound File Id: 3453c4bc
+File Offset:   0042d310
+File length:   00004c22
+Section#: 104
+
+Sound File Id: 348c4698
+File Offset:   00431f40
+File length:   000068bf
+Section#: 105
+
+Sound File Id: 34c25686
+File Offset:   00438800
+File length:   00002f30
+Section#: 106
+
+Sound File Id: 34d6ae81
+File Offset:   0043b730
+File length:   00001118
+Section#: 107
+
+Sound File Id: 34de0966
+File Offset:   0043c850
+File length:   00003012
+Section#: 108
+
+Sound File Id: 354028dd
+File Offset:   0043f870
+File length:   000038c2
+Section#: 109
+
+Sound File Id: 355337ca
+File Offset:   00443140
+File length:   00006728
+Section#: 10a
+
+Sound File Id: 35772461
+File Offset:   00449870
+File length:   00002b49
+Section#: 10b
+
+Sound File Id: 359c4ba4
+File Offset:   0044c3c0
+File length:   00002c59
+Section#: 10c
+
+Sound File Id: 35cbcd20
+File Offset:   0044f020
+File length:   0000371f
+Section#: 10d
+
+Sound File Id: 35e0c590
+File Offset:   00452740
+File length:   00002fde
+Section#: 10e
+
+Sound File Id: 35fc62b3
+File Offset:   00455720
+File length:   00000835
+Section#: 10f
+
+Sound File Id: 36378447
+File Offset:   00455f60
+File length:   00002095
+Section#: 110
+
+Sound File Id: 364c8c63
+File Offset:   00458000
+File length:   00002977
+Section#: 111
+
+Sound File Id: 36682005
+File Offset:   0045a980
+File length:   00003886
+Section#: 112
+
+Sound File Id: 366c6e62
+File Offset:   0045e210
+File length:   00003814
+Section#: 113
+
+Sound File Id: 369d49e2
+File Offset:   00461a30
+File length:   000059fb
+Section#: 114
+
+Sound File Id: 36a50b30
+File Offset:   00467430
+File length:   000012d8
+Section#: 115
+
+Sound File Id: 370e2f44
+File Offset:   00468710
+File length:   00002912
+Section#: 116
+
+Sound File Id: 371ca8b2
+File Offset:   0046b030
+File length:   00003759
+Section#: 117
+
+Sound File Id: 3738ca6f
+File Offset:   0046e790
+File length:   000049eb
+Section#: 118
+
+Sound File Id: 376d7c24
+File Offset:   00473180
+File length:   000028dd
+Section#: 119
+
+Sound File Id: 37ca3d22
+File Offset:   00475a60
+File length:   000029ec
+Section#: 11a
+
+Sound File Id: 37d04de5
+File Offset:   00478450
+File length:   00001c2c
+Section#: 11b
+
+Sound File Id: 38380085
+File Offset:   0047a080
+File length:   0000736c
+Section#: 11c
+
+Sound File Id: 38734f29
+File Offset:   004813f0
+File length:   00005765
+Section#: 11d
+
+Sound File Id: 38ab7466
+File Offset:   00486b60
+File length:   000038e5
+Section#: 11e
+
+Sound File Id: 392c6749
+File Offset:   0048a450
+File length:   000008c2
+Section#: 11f
+
+Sound File Id: 39658f1e
+File Offset:   0048ad20
+File length:   00001d95
+Section#: 120
+
+Sound File Id: 3986f481
+File Offset:   0048cac0
+File length:   00003567
+Section#: 121
+
+Sound File Id: 399e6b24
+File Offset:   00490030
+File length:   00003927
+Section#: 122
+
+Sound File Id: 39bfd4f3
+File Offset:   00493960
+File length:   000029be
+Section#: 123
+
+Sound File Id: 39c18666
+File Offset:   00496320
+File length:   0000132d
+Section#: 124
+
+Sound File Id: 39cfe12e
+File Offset:   00497650
+File length:   00001d8d
+Section#: 125
+
+Sound File Id: 39e6a1d9
+File Offset:   004993e0
+File length:   00002493
+Section#: 126
+
+Sound File Id: 3a2245d0
+File Offset:   0049b880
+File length:   00003079
+Section#: 127
+
+Sound File Id: 3a316158
+File Offset:   0049e900
+File length:   0000207c
+Section#: 128
+
+Sound File Id: 3a8cae77
+File Offset:   004a0980
+File length:   00002efd
+Section#: 129
+
+Sound File Id: 3a8e82de
+File Offset:   004a3880
+File length:   00000df8
+Section#: 12a
+
+Sound File Id: 3aa5ee0d
+File Offset:   004a4680
+File length:   00001c3c
+Section#: 12b
+
+Sound File Id: 3ac4cc09
+File Offset:   004a62c0
+File length:   000049ee
+Section#: 12c
+
+Sound File Id: 3afade13
+File Offset:   004aacb0
+File length:   000061be
+Section#: 12d
+
+Sound File Id: 3b0720eb
+File Offset:   004b0e70
+File length:   00003982
+Section#: 12e
+
+Sound File Id: 3b0fa19d
+File Offset:   004b4800
+File length:   00002377
+Section#: 12f
+
+Sound File Id: 3b614e1b
+File Offset:   004b6b80
+File length:   000037e1
+Section#: 130
+
+Sound File Id: 3b8b0e50
+File Offset:   004ba370
+File length:   00001bd2
+Section#: 131
+
+Sound File Id: 3c26868a
+File Offset:   004bbf50
+File length:   00002870
+Section#: 132
+
+Sound File Id: 3c4de44c
+File Offset:   004be7c0
+File length:   00000b78
+Section#: 133
+
+Sound File Id: 3cfb8086
+File Offset:   004bf340
+File length:   00000f37
+Section#: 134
+
+Sound File Id: 3d2a736e
+File Offset:   004c0280
+File length:   00003ecf
+Section#: 135
+
+Sound File Id: 3d334496
+File Offset:   004c4150
+File length:   00003499
+Section#: 136
+
+Sound File Id: 3d4bf585
+File Offset:   004c75f0
+File length:   00002bfa
+Section#: 137
+
+Sound File Id: 3d776a4e
+File Offset:   004ca1f0
+File length:   000007c1
+Section#: 138
+
+Sound File Id: 3dbd0ae7
+File Offset:   004ca9c0
+File length:   00000a39
+Section#: 139
+
+Sound File Id: 3e9a3e00
+File Offset:   004cb400
+File length:   0000138c
+Section#: 13a
+
+Sound File Id: 3f06a1a1
+File Offset:   004cc790
+File length:   000008b1
+Section#: 13b
+
+Sound File Id: 3f32b23a
+File Offset:   004cd050
+File length:   0000411b
+Section#: 13c
+
+Sound File Id: 3f483f26
+File Offset:   004d1170
+File length:   00001a4a
+Section#: 13d
+
+Sound File Id: 3f51e47c
+File Offset:   004d2bc0
+File length:   00003073
