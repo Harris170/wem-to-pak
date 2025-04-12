@@ -7,7 +7,6 @@ Converts .wem files to .pak files for the Marvel Rivals game.
 Place a .wem file in the same directory as the wem-to-pak.exe binary.
 Run the following:
 
-```
-console
+```console
 .\wem-to-pak.exe
 ```
